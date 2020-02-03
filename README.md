@@ -1,2 +1,2 @@
-# PostfixTOPrefixDataStructure
-Expressions Postfix to Prefix in Data Structure.
+# PrefixTOInfixDataStructure
+Expressions Prefix to Infix in Data Structure.
